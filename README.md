@@ -6,7 +6,7 @@ So that I do not have to explain ~~wtf~~ p5.js is.
 
 **p5.js** lets you create and interact with a canvas in a very easy way.
 **p5.js** itself is just an **JavaScript** file that u can include into your html file.
-If your familiar with *processing**, **p5.js** is just like **processing** but then with **JavaScript**.
+If your familiar with **processing**, **p5.js** is just like **processing** but then with **JavaScript**.
 ( **processing** and **p5.js** are simplified versions of *Java* and *JavaScript*. )
 
 ***
